@@ -1,4 +1,4 @@
-# Project Name
+# BINAR CALCULATOR
 
 > One paragraph statement about the project.
 
